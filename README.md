@@ -19,7 +19,7 @@ It shows random motivational quotes and lets users react with emojis like ❤️
 
 ## 🚀 Live Demo
 
-🔗 **[Minimalist Quote WebApp Live](https://moinuddin-dev-dot.github.io/Minimalist-4Try-WebApp/)**
+🔗 **[Minimalist Quote WebApp Live](https://modern-react-4try-web-app.vercel.app/)**
 
 ---
 
