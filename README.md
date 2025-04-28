@@ -30,3 +30,12 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/MoinUddin-dev-dot/Modern-React-4try-WebApp.git
 cd your-repo-name
+```
+---
+
+## 📦 Installation
+```
+npm install
+npm run dev
+
+```
